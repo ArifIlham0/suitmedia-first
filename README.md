@@ -1,6 +1,35 @@
-# suitmedia_first
+<h2 align="center">
+  Flutter App<br/>
+  <a>Suitmedia Test</a>
+</br>
+  <a href="https://www.arifilham.my.id" target="_blank">By Muhammad Arif Ilham</a>
+</h2>
 
-A new Flutter project.
+## Screenshots
+
+</br>
+
+<center>
+
+![suitmedia1](https://github.com/ArifIlham0/suitmedia-first/assets/90549963/f07d81b3-2b7b-4ce4-ad2e-9f1eed2a150d)
+![suitmedia2](https://github.com/ArifIlham0/suitmedia-first/assets/90549963/c5dfdd16-3092-40d9-88eb-c9499942570c)
+
+
+</center>
+
+<br/>
+
+<h3 align="center">
+    <a href="https://github.com/ArifIlham0/flutter-camera-app/issues">Report Bug</a> &nbsp; &nbsp;
+</h3>
+
+## Built With
+
+This project was built using these technologies.
+
+- Flutter
+- Dart
+- VS Code
 
 ## Getting Started
 
